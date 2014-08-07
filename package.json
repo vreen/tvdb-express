@@ -1,0 +1,10 @@
+{
+	"name": "tvdb-api",
+	"main": "server.js",
+	"description": "json representation of the tvdb xml api",
+	"dependencies": {
+		"express": "~4.0.0",
+		"body-parser": "~1.0.1",
+		"hpv-tvdb": "0.0.9"
+	}
+}
